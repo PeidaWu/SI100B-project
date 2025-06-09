@@ -1,2 +1,2 @@
 # SI100B-project
-2025FallSI100B project: Face Detection and emotion classification
+2025 Spring SI100B Project: Face Detection and emotion classification
